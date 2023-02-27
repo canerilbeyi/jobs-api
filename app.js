@@ -36,7 +36,7 @@ app.use(xss());
 
 app.get("/", (req, res) => {
   return res.send("<h1>jobs api</h1>");
-  //
+  //test
 });
 
 // routes
